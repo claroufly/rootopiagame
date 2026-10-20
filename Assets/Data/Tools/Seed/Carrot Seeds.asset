@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d576165b74624dad7fa26c1519b0c, type: 3}
+  m_Name: Carrot Seeds
+  m_EditorClassIdentifier: Assembly-CSharp::SeedData
+  description: Seeds to grow for Carrots
+  thumbnail: {fileID: 21300000, guid: a12294f47c91e6c4db6f7563b066c7d6, type: 3}
+  gameModel: {fileID: 0}
+  daysToGrow: 1
+  cropToYield: {fileID: 11400000, guid: 1ca824db72dabf642aef9b0be70ed646, type: 2}
+  seedling: {fileID: 3856223855077511753, guid: 1a0fc3072ca96ec4283af64115b956a1, type: 3}
+  regrowable: 0
+  daysToRegrow: 0

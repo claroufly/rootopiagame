@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f618458b055fa7a4b986cb872ff7ad78, type: 3}
+  m_Name: PestData
+  m_EditorClassIdentifier: Assembly-CSharp::PestData
+  pestName: Pest
+  description: it will harm your crops
+  pestIcon: {fileID: 21300000, guid: f2846dd4de35f9046930f3dd99efe690, type: 3}
+  daysBeforeFirstDamage: 2
+  damageIntervalDays: 1
+  damagePerTick: 0
